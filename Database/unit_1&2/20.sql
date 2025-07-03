@@ -1,0 +1,1 @@
+-- Write a program to aceept a number and display it in the Octal format

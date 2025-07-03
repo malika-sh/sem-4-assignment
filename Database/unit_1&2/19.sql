@@ -1,0 +1,1 @@
+-- Find the factorials of numbers from 1 to 10

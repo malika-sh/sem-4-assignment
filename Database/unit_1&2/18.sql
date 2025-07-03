@@ -1,0 +1,1 @@
+-- Write a program to accept a number and find the factorial of the number
